@@ -1,0 +1,13 @@
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.exe
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.deps.json
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.runtimeconfig.json
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.runtimeconfig.dev.json
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.dll
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\bin\Debug\netcoreapp3.1\Slagsmal.pdb
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.csprojAssemblyReference.cache
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.AssemblyInfoInputs.cache
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.AssemblyInfo.cs
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.csproj.CoreCompileInputs.cache
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.dll
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.pdb
+C:\Users\leoer\Desktop\PrrPrr\Slagsmal\Slagsmal\obj\Debug\netcoreapp3.1\Slagsmal.genruntimeconfig.cache
